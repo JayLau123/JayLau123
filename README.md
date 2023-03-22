@@ -24,6 +24,8 @@ ________________________________________________________________________________
 
 # How to use my GitHub efficiently
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayLau123)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123&show_icons=true&theme=dracula)
 
 
@@ -51,6 +53,8 @@ How to clone from Github
 4. Entering the command: git clone + the copied URL
 
 When you open the directory again, you'll find that you already have the repository. Then navigate to the repository's address.
+
+
 
 
 <!--
