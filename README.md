@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 # How to use my GitHub efficiently
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123&show_icons=true&theme=radical)
 
 ### Save your time, find everything you need efficiently. Good luck!
 
