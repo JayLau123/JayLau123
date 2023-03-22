@@ -1,8 +1,6 @@
-### Hi there 👋 
+### Hi there 👋  
 
-:simple_smile:
-
-
+:laughing:
 
 
 <!--
