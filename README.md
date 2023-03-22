@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-👯 I’m looking to collaborate on physice-based machine learning, DFT, and qunatum chemistry for materials research! :laughing:
+:laughing: I’m looking to collaborate on physice-based machine learning, DFT, and qunatum chemistry for materials research! 
 
 :microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc.
 
