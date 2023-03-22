@@ -17,6 +17,8 @@
 Here is my Google Scholar:
 
 https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123)](https://github.com/anuraghazra/github-readme-stats)
 ________________________________________________________________________________________________________________________________________________________
 
 
