@@ -14,7 +14,7 @@
 
 :heavy_check_mark: Can we use ultra-fast Raman spectroscopy and tip enhanced Raman spectroscopy, combined with graph neural network(GNN), to understand matter with ultimate spatial and temporal resolutions? 
 
-Here is my Google Scholar:
+**My Google Scholar**
 
 https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
@@ -22,14 +22,14 @@ https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 ________________________________________________________________________________________________________________________________________________________
 
 
-# How to use my GitHub efficiently
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JayLau123)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayLau123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123&show_icons=true&theme=dracula)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayLau123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# How to use my GitHub efficiently
 
 ### Save your time, find everything you need efficiently. Good luck!
 
