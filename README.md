@@ -2,15 +2,17 @@
 
 👯 I’m looking to collaborate on physice-based machine learning, DFT, and qunatum chemistry for materials research! :laughing:
 
-My research interests span physics, chemistry, materials science, computational science  and engineering.
+:microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc.
 
-I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact:
+:computer: I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact.
 
-Can we use ultra-fast Raman spectroscopy and tip enhanced Raman spectroscopy, combined with graph neural network(GNN), to understand matter with ultimate space and time resolutions? 
+:bulb: Here are some of my most interested topics
 
-Can we aid the design process of molecules, materials, and devices by leverage on two complementary tools DFT and machine learning?
+:heavy_check_mark: Can we use ultra-fast Raman spectroscopy and tip enhanced Raman spectroscopy, combined with graph neural network(GNN), to understand matter with ultimate space and time resolutions? 
 
-Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on statistics, machine learning, and other computational/data-driven approaches.
+:heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leverage on two complementary tools DFT and machine learning?
+
+:heavy_check_mark: Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on statistics, machine learning, and other computational/data-driven approaches.
 
 
 ________________________________________________________________________________________________________________________________________________________
