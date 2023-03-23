@@ -2,7 +2,9 @@
 
 :laughing: I’m always open to academic collaboration especially on physice-based machine learning, DFT, and qunatum chemistry for materials research. Please feel free to reach out to me via jayfree2023@outlook.com
 
-:microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc.
+:microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc. Especially computer-aided molecular and materials design, synthesis, and optimization, with more emphasis on machine learning and data driven methods.
+
+
 
 :computer: I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact.
 
