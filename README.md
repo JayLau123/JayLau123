@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-:laughing: I’m always open for academic collaboration especially on physice-based machine learning, DFT, and qunatum chemistry for materials research. Please feel free to reach out to me via jayfree2023@outlook.com
+:laughing: I’m always open to academic collaboration especially on physice-based machine learning, DFT, and qunatum chemistry for materials research. Please feel free to reach out to me via jayfree2023@outlook.com
 
 :microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc.
 
