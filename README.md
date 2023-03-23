@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayLau123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# How to use my GitHub efficiently
+## How to use my GitHub efficiently
 
 ### Save your time, find everything you need efficiently. Good luck!
 
@@ -39,21 +39,31 @@ ________________________________________________________________________________
 
 #### There are some other useful learning materials in each repsoitory such as popular publications, reference books, course lectures from UChicago, etc.
 
+## Quick start
 
-### other tips
+### Anaconda
 
-How to clone from Github
+https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
-1. First create a local directory where you want to store this library
+Learn how to use Anaconda to install Python on your computer and how to install new packages
 
-2. Drag this directory into terminal and get the address
+### Python tutorials
 
-3. Navigate to that address
+https://thepythonguru.com/
 
-4. Entering the command: git clone + the copied URL
+https://www.codecademy.com/learn/learn-python-3
 
-When you open the directory again, you'll find that you already have the repository. Then navigate to the repository's address.
+### Jupyter Notebook
 
+Web-based interactive development environment for notebooks,code,and data.
+
+https://docs.jupyter.org/en/latest/start/index.html
+
+### Numpy and Pandas
+
+https://numpy.org/doc/stable/user/quickstart.html
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 
 
 
