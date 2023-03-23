@@ -41,17 +41,19 @@ ________________________________________________________________________________
 
 ## Quick start
 
-### Anaconda
-
-https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
-
-Learn how to use Anaconda to install Python on your computer and how to install new packages
-
 ### Python tutorials
+
+Basic syntax, data structures, functions, etc.
 
 https://thepythonguru.com/
 
 https://www.codecademy.com/learn/learn-python-3
+
+### Anaconda
+
+Use Anaconda to install Python and new packages on your computer.
+
+https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
 ### Jupyter Notebook
 
