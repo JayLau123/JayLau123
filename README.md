@@ -10,7 +10,7 @@
 
 :bulb: Here are some of my most interested topics:
 
-:heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leverage on DFT and machine learning? While DFT is an interpretable and complementary tools for machine learning.
+:heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leverage on DFT and machine learning? While DFT is an interpretable and complementary tool for machine learning.
 
 :heavy_check_mark: Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on statistics, machine learning, and other computational/data-driven approaches?
 
