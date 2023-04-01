@@ -4,10 +4,9 @@
 
 :microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc. Especially computer-aided molecular and materials design, synthesis, and optimization, with more emphasis on machine learning and data driven methods.
 
+📧 Please feel free to drop me an email: jayfree2023@outlook.com
 
-🚀 I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact.
-
-:bulb: Here are some of my most interested topics:
+🚀 I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact. Here are some of my most interested topics:
 
 :heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leverage on DFT and machine learning? While DFT is an interpretable and alternative tool for machine learning.
 
