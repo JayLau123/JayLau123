@@ -68,12 +68,6 @@ Web-based interactive development environment for notebooks,code,and data.
 
 https://docs.jupyter.org/en/latest/start/index.html
 
-### Numpy and Pandas
-
-https://numpy.org/doc/stable/user/quickstart.html
-
-https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
-
 
 
 <!--
