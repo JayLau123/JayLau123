@@ -19,17 +19,13 @@
 
 https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
-### 👨‍💻 I'm currently working on machine learning-aided characterization for molecules based on grahp theory.
+### 👨‍💻 I'm currently working on machine learning-aided characterization for molecules based on GNN.
 
 Probably approximately correct function(PAC) explains how to find the best candidate structure $x$ with a high probability, that very suits for loss function in our model.
  
 $$p(|f(x)-y| \leq \epsilon) \geq 1-\delta$$
 
-$x$ is the candidate structure, $y$ is the observed properties $P$ from spectrum, which is the true label. If the prediction is very accurate, then $|f(x)-P|\leq \epsilon$, where $\epsilon$ is a very small number. Benifits from decades of expertise in quantum physics and conputational chemistry, especially Density Functional Theory(DFT), we can calculate the spectrum properties based on known atoms and their structure. Let's denote it as $\boldsymbol{f}$. We hope to find the best candidate structure $x$ with a high probability: $p(|f(x)-P| \leq \epsilon) \geq 1-\delta$, where $\delta$ is a very small number.
-
-Although it's theoretically correct, however, the $\boldsymbol{f}$ can be very computational-expensive. Beyond that, how to choose the appropriate exchange-correlation functional $E_{XC}$ in solving Kohn-Sham equation(KS) is a long-standing problem in quantum chemistry. Alternatively, can we use current database from PubChem, NIST, Wiley’s library, etc. to train a convolutional neural network to predict spectrum, so that given a molecular structure (graph-based representation), it will output the spectrum automatically? we are going to build such a network named forward model $\boldsymbol{f}$.
-
-
+$x$ is the candidate structure, $y$ is the observed properties $P$ from spectrum, which is the true label. If the prediction is very accurate, then $|f(x)-P|\leq \epsilon$. We can calculate the spectrum properties based on known atoms and their structure based on quantum chemistry. Let's denote it as $\boldsymbol{f}$. We hope to find the best candidate structure $x$ with a high probability: $p(|f(x)-P| \leq \epsilon) \geq 1-\delta$. However, regardless of the difficulties to choose exchange-correlation functional $E_{XC}$ in solving Kohn-Sham equation(KS), the $\boldsymbol{f}$ can be very computational-expensive. Alternatively, can we use current database from PubChem, NIST, Wiley’s library, etc. to train a convolutional neural network to predict spectrum, so that given a molecular structure (graph-based representation), it will output the spectrum automatically? We are going to build such a network named forward model $\boldsymbol{f}$.
 
 ________________________________________________________________________________________________________________________________________________________
 
