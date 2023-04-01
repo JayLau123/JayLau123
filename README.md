@@ -18,7 +18,7 @@
 
 https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
-### 👨‍💻 I'm currently working on machine learning-aided characterization for molecules based on GNN.
+### 👨‍💻 I'm currently working on machine learning-aided characterization for molecules based on graph theory.
 
 Probably approximately correct function(PAC) explains how to find the best candidate structure $x$ with a high probability, that very suits for loss function in our model.
  
