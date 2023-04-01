@@ -1,12 +1,11 @@
 ### Hi there 👋  
 
-:laughing: I’m always open to academic collaboration especially on physice-based machine learning, DFT, and qunatum chemistry for materials research. Please feel free to reach out to me via jayfree2023@outlook.com
+🍻 Cheers! Nice to meet you here. I’m always open to academic collaboration especially on physice-based machine learning, DFT, and qunatum chemistry for materials research and quantum computing. 
 
 :microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc. Especially computer-aided molecular and materials design, synthesis, and optimization, with more emphasis on machine learning and data driven methods.
 
 
-
-:computer: I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact.
+🚀 I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact.
 
 :bulb: Here are some of my most interested topics:
 
@@ -16,9 +15,20 @@
 
 :heavy_check_mark: Can we use ultra-fast Raman spectroscopy and tip enhanced Raman spectroscopy, combined with graph neural network(GNN), to understand matter at atomic scale with ultimate spatial and temporal resolutions? 
 
-**My Google Scholar**
+**🎉 My Google Scholar**
 
 https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
+
+### 👨‍💻 I'm currently working on machine learning-aided characterization for molecules based on grahp theory.
+
+Probably approximately correct function(PAC) explains how to find the best candidate structure $x$ with a high probability, that very suits for loss function in our model.
+ 
+$$p(|f(x)-y| \leq \epsilon) \geq 1-\delta$$
+
+$x$ is the candidate structure, $y$ is the observed properties $P$ from spectrum, which is the true label. If the prediction is very accurate, then $|f(x)-P|\leq \epsilon$, where $\epsilon$ is a very small number. Benifits from decades of expertise in quantum physics and conputational chemistry, especially Density Functional Theory(DFT), we can calculate the spectrum properties based on known atoms and their structure. Let's denote it as $\boldsymbol{f}$. We hope to find the best candidate structure $x$ with a high probability: $p(|f(x)-P| \leq \epsilon) \geq 1-\delta$, where $\delta$ is a very small number.
+
+Although it's theoretically correct, however, the $\boldsymbol{f}$ can be very computational-expensive. Beyond that, how to choose the appropriate exchange-correlation functional $E_{XC}$ in solving Kohn-Sham equation(KS) is a long-standing problem in quantum chemistry. Alternatively, can we use current database from PubChem, NIST, Wiley’s library, etc. to train a convolutional neural network to predict spectrum, so that given a molecular structure (graph-based representation), it will output the spectrum automatically? we are going to build such a network named forward model $\boldsymbol{f}$.
+
 
 
 ________________________________________________________________________________________________________________________________________________________
