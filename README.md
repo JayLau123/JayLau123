@@ -21,7 +21,8 @@ https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
 **🛠️ I'm also interested in collecting some useful AI tools to improve productivity. Beat them, join them, and make them!**
 
-https://github.com/JayLau123/GPT-toolkit-summary.
+
+
 
 
 ### 👨‍💻 Current project: Machine learning-aided characterization for molecules based on graph theory.
