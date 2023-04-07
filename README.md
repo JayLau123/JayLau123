@@ -16,8 +16,9 @@
 
 **🎉 My Google Scholar**
 
-https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
+I am thankful for the wonderful collaborations that have led to the publications here.
 
+https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
 **🛠️ I'm also interested in collecting some useful AI tools to improve productivity. Beat them, or join them, and make them!**
 
