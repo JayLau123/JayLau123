@@ -1,6 +1,7 @@
 ### Hi there 👋  
 
-🍻 Cheers! Nice to meet you. I’m always open to academic collaboration especially on physice-based machine learning, DFT, and qunatum chemistry for materials research and quantum computing. 
+🍻 Cheers! Nice to meet you. I really appreciate prospective collaborators reaching out, especially on physice-based machine learning, DFT, and qunatum chemistry for materials research and quantum computing. 
+
 
 :microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc. Especially computer-aided molecular and materials design, synthesis, and optimization, with more emphasis on machine learning and data driven methods, and other exciting ways of exploiting scientific computation to understand the world.
 
