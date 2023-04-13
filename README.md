@@ -6,10 +6,6 @@
 
 📧 Please feel free to drop me an email: jayfree2023@outlook.com
 
-
-When you put a specific job to a queue, you also need to tell the system how many compute nodes you need, and the system will just give you the resource you need, so other compute nodes are available to other users.![image](https://user-images.githubusercontent.com/98719524/231657875-384f5789-964b-4e38-96c7-223d7c02e729.png)
-
-
 🚀 I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact. Here are some of my most interested topics:
 
 :heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leveraging on DFT and machine learning? While DFT is an interpretable and alternative tool for machine learning.
