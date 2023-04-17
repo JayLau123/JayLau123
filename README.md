@@ -1,10 +1,6 @@
 ### Hi there 👋  
 
-:microscope: My research interests span physics, chemistry, materials science, computational science  and engineering, etc. Especially computer-aided molecular and materials design, synthesis, and optimization, with more emphasis on machine learning and data driven methods, and other exciting ways of exploiting scientific computation to understand the world.
-
-🍻 I really appreciate prospective collaborators reaching out, especially on physice-based machine learning, qunatum chemistry, and HPC for materials research and quantum computing. 
-
-📧 Please feel free to drop me an email: jayfree2023@outlook.com
+:microscope: My research interests span physics, chemistry, materials science, computational science and engineering, etc. Especially molecular and materials design, characterization, and optimization, with more emphasis on **AI4Science** (computer-aided, data-driven, statistics-based, physics-informed method), and other exciting ways of exploiting scientific computation to understand the world.
 
 🚀 I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact. Here are some of my most interested topics:
 
@@ -13,6 +9,10 @@
 :heavy_check_mark: Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on CNN(consistutes), GNN(structure), and other computational/data-driven approaches?
 
 :heavy_check_mark: Can we use ultra-fast Raman spectroscopy and tip enhanced Raman spectroscopy, combined with graph neural network(GNN), to understand matter at atomic scale with ultimate spatial and temporal resolutions? 
+
+🍻 I really appreciate prospective collaborators reaching out, especially on physice-based machine learning, qunatum chemistry, and HPC for materials research and quantum computing. 
+
+📧 Please feel free to drop me an email: jayfree2023@outlook.com
 
 **🎉 My Google Scholar**
 
