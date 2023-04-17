@@ -10,15 +10,14 @@
 
 :heavy_check_mark: Can we use ultra-fast Raman spectroscopy and tip enhanced Raman spectroscopy, combined with graph neural network(GNN), to understand matter at atomic scale with ultimate spatial and temporal resolutions? 
 
-🍻 I really appreciate prospective collaborators reaching out, especially on physice-based machine learning, qunatum chemistry, and HPC for materials research and quantum computing. 
-
-📧 Please feel free to drop me an email: jayfree2023@outlook.com
 
 **🎉 My Google Scholar**
 
-I am thankful for the wonderful collaborations that have led to the publications here.
+🍻 I am thankful for the wonderful collaborations that have led to the publications here.
 
 https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
+
+📧 I really appreciate prospective collaborators reaching out, especially on physice-based machine learning, qunatum chemistry, and HPC for materials research and quantum computing. Please feel free to drop me an email: jayfree2023@outlook.com
 
 **🛠️ I'm also interested in collecting some useful AI tools to improve productivity. Beat them, or join them, and make them!**
 
