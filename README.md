@@ -51,28 +51,7 @@ ________________________________________________________________________________
 
 #### There are some other useful learning materials in each repsoitory such as popular publications, reference books, course lectures from UChicago, etc.
 
-## Quick start
 
-
-### Python tutorials
-
-Basic syntax, data structures, functions, etc.
-
-https://thepythonguru.com/
-
-https://www.codecademy.com/learn/learn-python-3
-
-### Anaconda
-
-Use Anaconda to install Python and new packages on your computer.
-
-https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
-
-### Jupyter Notebook
-
-Web-based interactive development environment for notebooks,code,and data.
-
-https://docs.jupyter.org/en/latest/start/index.html
 
 
 
