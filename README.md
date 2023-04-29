@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-:microscope: research interests span physics, chemistry, materials science, computational science and engineering, etc. Especially molecular and materials design, characterization, and optimization, with more emphasis on **AI4Science** (computer-aided, data-driven, statistics-based, physics-informed method), and other exciting ways of exploiting scientific computation to understand the world.
+:microscope: My research interests span physics, chemistry, materials science, computational science and engineering, etc. Especially molecular and materials design, characterization, and optimization, with more emphasis on **AI4Science** (computer-aided, data-driven, statistics-based, physics-informed method), and other exciting ways of exploiting scientific computation to understand the world.
 
 🚀 I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact. Here are some of my most interested topics:
 
