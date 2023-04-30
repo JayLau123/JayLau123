@@ -19,7 +19,7 @@ https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
 📧 I really appreciate prospective collaborators reaching out, especially on physice-based machine learning, qunatum chemistry, and HPC for materials research and quantum computing. Please feel free to drop me an email: jayfree2023@outlook.com
 
-**🛠️ I'm also interested in collecting some useful AI tools to improve productivity, they are my brainstorming partner and positive assistants with can-do attitude!
+**🛠️ I'm also interested in collecting some useful AI tools to improve productivity, they are my brainstorming partner and positive assistants with can-do attitude!**
 
 https://github.com/JayLau123/GPT-toolkit-summary
 
