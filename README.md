@@ -34,20 +34,9 @@ $x$ is the candidate structure, $y$ is the observed properties $P$ from Raman sp
 ________________________________________________________________________________________________________________________________________________________
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123 &show_icons=true&theme=radical)
 
-
-
-
-## How to use my GitHub efficiently
-
-### Save your time, find everything you need efficiently. Good luck!
-
-#### Please take a look of 'README.md', there are brief introductions to each file in each repository. It will guide you to find the file you need quickly. 
-
-#### I'm not used to write formulas and equations in 'READ.md', instead, I prefer writing formula with LaTeX in jupyter notebook. You can download the files and find the LaTeX code of all the formulas in your own jupyter notebook!
-
-#### There are some other useful learning materials in each repsoitory such as popular publications, reference books, course lectures from UChicago, etc.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
