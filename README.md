@@ -13,7 +13,7 @@
 
 **🎉 My Google Scholar**
 
-I am thankful for the wonderful collaborations that have led to the publications here.
+I'm thankful for the wonderful collaborations that have led to the publications here.
 
 https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
