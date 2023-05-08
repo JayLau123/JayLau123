@@ -34,12 +34,13 @@ $x$ is the candidate structure, $y$ is the observed properties $P$ from Raman sp
 ________________________________________________________________________________________________________________________________________________________
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JayLau123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayLau123)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ## How to use my GitHub efficiently
 
