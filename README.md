@@ -31,28 +31,5 @@ $$p(|f(x)-y| \leq \epsilon) \geq 1-\delta$$
 
 $x$ is the candidate structure, $y$ is the observed properties $P$ from Raman spectrum, which is the true label. If the prediction is very accurate, then $|f(x)-P|\leq \epsilon$. We can calculate the spectrum properties with known atoms and their structure based on quantum chemistry. Let's denote it as $\boldsymbol{f}$. We hope to find the best candidate structure $x$ with a high probability: $p(|f(x)-P| \leq \epsilon) \geq 1-\delta$. However, regardless of the difficulties to choose exchange-correlation functional $E_{XC}$ in solving Kohn-Sham equation(KS), the $\boldsymbol{f}$ can be very computational-expensive. Alternatively, can we use current database from PubChem, NIST, Wiley’s library, etc. to train a convolutional neural network to predict spectrum, so that given a molecular structure (graph-based representation), it will output the spectrum automatically? We are going to build such a network named forward model $\boldsymbol{f}$.
 
-________________________________________________________________________________________________________________________________________________________
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123 &show_icons=true&theme=radical)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-<!--
-**JayLau123/JayLau123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLau123&show_icons=true&theme=radical)
