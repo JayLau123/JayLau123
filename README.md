@@ -6,7 +6,7 @@
 
 :heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leveraging on DFT and machine learning? To achieve the best balance of accuracy and efficiency, practicality and interpretability?
 
-:heavy_check_mark: Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on CNN, GNN, and other computational/data-driven approaches?
+:heavy_check_mark: Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on computational/data-driven approaches?
 
 :heavy_check_mark: Can we move to larger systems, longer time scales, higher data efficiency, better generalization and transferability, and eventually more accurate and realistic applications in molecule and materials science with DFT+GNN?
 
