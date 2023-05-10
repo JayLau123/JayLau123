@@ -6,10 +6,9 @@
 
 :heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leveraging on DFT and machine learning? While DFT is an interpretable and alternative tool for machine learning.
 
-:heavy_check_mark: Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on CNN(consistutes), GNN(structure), and other computational/data-driven approaches?
+:heavy_check_mark: Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on CNN, GNN, and other computational/data-driven approaches?
 
-:heavy_check_mark: Can we use ultra-fast Raman spectroscopy and tip enhanced Raman spectroscopy, combined with graph neural network(GNN), to understand matter at atomic scale with ultimate spatial and temporal resolutions? 
-
+:heavy_check_mark: Can we move to larger systems, longer time scales, higher data efficiency, better generalization and transferability, and eventually more accurate and realistic applications in molecule and materials science with DFT+GNN?
 
 **🎉 My Google Scholar**
 
