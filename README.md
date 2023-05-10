@@ -4,7 +4,7 @@
 
 🚀 I seek to provide useful computing techniques to support break new grounds in these interdisciplinary fields to addresses questions with broad societal impact. Here are some of my most interested topics:
 
-:heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leveraging on DFT and machine learning? While DFT is an interpretable and alternative tool for machine learning.
+:heavy_check_mark: Can we aid the design process of molecules, materials, and devices by leveraging on DFT and machine learning? To achieve the best balance of accuracy and efficiency, practicality and interpretability?
 
 :heavy_check_mark: Can we be able to design materials with particular chemical compositions and crystal structure at the atomic level given a set of desired properties or functions, based on CNN, GNN, and other computational/data-driven approaches?
 
