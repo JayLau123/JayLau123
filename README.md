@@ -22,7 +22,7 @@ https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
 https://github.com/JayLau123/GPT-toolkit-summary
 
-### 👨‍💻 Current project: Machine learning-aided characterization for molecules based on graph theory.
+### 👨‍💻 Current project: GNN-aided characterization for molecules.
 
 Probably approximately correct function(PAC) explains how to find the best candidate structure $x$ with a high probability, which suits for loss function in our model.
  
