@@ -31,7 +31,8 @@ https://github.com/JayLau123/GPT-toolkit-summary
 
 I'm thankful for the wonderful collaborations that have led to the publications here.
 
-{https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en}(1)
+https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
+
 
 📧 I really appreciate prospective collaborators reaching out, especially on lanthanide-doped luminescent nanocrystal. Please feel free to drop me an email: jayfree2023@outlook.com
 
