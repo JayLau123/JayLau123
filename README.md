@@ -22,10 +22,6 @@
 :heavy_check_mark: Could we explore the potential of correlating the Monte-Carlo model with graph neural networks (GNNs) due to their structural similarities?
 
 
-**🛠️ I'm also interested in collecting some useful AI tools to improve productivity, they are my brainstorming partner and positive assistants with can-do attitude!**
-
-https://github.com/JayLau123/GPT-toolkit-summary
-
 
 **🎉 My Google Scholar**
 
@@ -36,3 +32,6 @@ https://scholar.google.com/citations?user=f2qAmGIAAAAJ&hl=en
 
 📧 I really appreciate prospective collaborators reaching out, especially on lanthanide-doped luminescent nanocrystal. Please feel free to drop me an email: jayfree2023@outlook.com
 
+**🛠️ I'm also interested in collecting some useful AI tools to improve productivity, they are my brainstorming partner and positive assistants with can-do attitude!**
+
+https://github.com/JayLau123/GPT-toolkit-summary
