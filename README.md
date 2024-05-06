@@ -9,7 +9,7 @@
 
 **👨‍💻 I seek to hack the energy transfer networks, build a useful computational model to provide insights and predictive support for the development of UCNPs. Here are some of my current most interested topics:**
 
-:heavy_check_mark: How many term symbol $\mathrm{{ }^{2 S+1} L}$ should be involved for $\mathrm{Yb}^{3+}, \mathrm{Tm}^{3+}, \mathrm{Er}^{3+}$ in $\beta-\mathrm{NaYF_4}$, and quantitatively describe the energy level's value, shifting, and broadening under crystal-field and external electromagnetic field?
+:heavy_check_mark: How many term symbol $\mathrm{{ }^{2 S+1} L_J}$ should be involved for $\mathrm{Yb}^{3+}, \mathrm{Tm}^{3+}, \mathrm{Er}^{3+}$ in $\beta-\mathrm{NaYF_4}$, and quantitatively describe the energy level's value, shifting, and broadening under crystal-field and external electromagnetic field?
 
 :heavy_check_mark: How do we specify the existence of various energy transfer pathways in UCNP based on experimental observation and theoretical investigation beyond known categories such as electric-dipole induced transition(ED), magnetic-dipole induced transition(MD), multi-phonon relaxation, donor-acceptor energy transfer process(ET)? 
 
