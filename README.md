@@ -4,7 +4,7 @@
 
 :atom: Depart from lanthanides' abundant electronic structure in solid, we try to explore microscopic interactions(electron, photon, phonon, etc) and energy transfer mechanisms (ED, MD, MPR, up-conversion, cross-relaxation, etc) with Judd-Ofelt theory and DFT. Grounded in an extensive theoretical framework and calculated transition rates, we implement Monte Carlo model to simulate the probabilistic, collective energy transfer behaviour among hundreds to millions of ions within single nanoparticles with diameters ranging from 4 $nm$ to 50 $nm$. 
 
-🚀 The overarching goal of these endeavors is to design custom-based UCNPs, perfect for their ultimate application: serving as long-term, multi-color optical probes in single-molecule tracking and imaging. Let’s push the boundaries of UCNPs research, illuminating paths for future innovations in spectroscopy and bio-imaging, and drive innovation together!
+🚀 The overarching goal of these endeavors is to hack the energy transfer network to design custom-based UCNPs, perfect for their ultimate application: serving as long-term, multi-color optical probes in single-molecule tracking and imaging. Let’s push the boundaries of UCNPs research, illuminating paths for future innovations in spectroscopy and bio-imaging, and drive innovation together!
 
 
 **👨‍💻 I seek to hack the energy transfer networks, build a useful computational model to provide insights and predictive support for the development of UCNPs. Here are some of my current most interested topics:**
