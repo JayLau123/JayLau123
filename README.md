@@ -19,7 +19,7 @@
 
 :heavy_check_mark: Doping percentages and MC model stochasticity: how do they relate? If large particles or high doping that result in more doped ions produce a more accurate simulation than small particles and low doping?
 
-:heavy_check_mark: Should we take into account the local site symmetry responsible for the selection rules at different lattice sites, as viewed from the perspective of a single ion?
+:heavy_check_mark: Should we take into account the local site symmetry responsible for the selection rules at different lattice sites, as viewed from the perspective of a single ion? If not, is the selection rule applicable to every ion in the lattice environment?
 
 :heavy_check_mark: How many adjustable variables cound be optimizaed (lanthanides categories and percentages, crystal structure, particle size, laser power density and polarization, etc) that supprot precise tuning of the photonphysical properties and high energy transfer efficiency of UCNP?
 
