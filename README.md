@@ -11,7 +11,7 @@
 
 :heavy_check_mark: How many term symbols $\mathrm{{ }^{2 S+1} L_J}$ should be involved for $\mathrm{Yb}^{3+}, \mathrm{Tm}^{3+}, \mathrm{Er}^{3+}$ in $\beta-\mathrm{NaYF_4}$, and quantitatively describe the energy level's value, shifting, and broadening under crystal-field and external electromagnetic field?
 
-:heavy_check_mark: How do we specify the existence of various energy transfer pathways in UCNP based on experimental observation and theoretical investigation beyond known categories such as electric-dipole induced transition(ED), magnetic-dipole induced transition(MD), multi-phonon relaxation, donor-acceptor energy transfer process(ET)? 
+:heavy_check_mark: How do we specify the existence of various energy transfer pathways in UCNP based on experimental observation and theoretical investigation beyond known categories such as electric-dipole induced radiative transition(ED), magnetic-dipole induced radiative transition(MD), multipolar interaction, multi-phonon relaxation, non-resonant donor-acceptor energy transfer process(ET)? 
 
 :heavy_check_mark: How do we obtain the overlap integral $\mathrm{S_0}$ experimently or computationally, and how many phonons could be involved in non-resonant energy transfer processes due to energy mismatching between donor and acceptor?
 
