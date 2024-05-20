@@ -23,7 +23,7 @@
 
 :heavy_check_mark: How many adjustable variables cound be optimizaed (lanthanides categories and percentages, crystal structure, particle size, laser power density and polarization, etc) that supprot precise tuning of the photonphysical properties and high energy transfer efficiency of UCNP?
 
-:heavy_check_mark: Could we explore the potential of correlating the Monte-Carlo model with graph neural networks (GNNs) due to their structural similarities?
+:heavy_check_mark: Could we explore the potential of correlating the Monte-Carlo model with neural networks due to their structural and dynamics similarities?
 
 
 **🛠️ I'm also interested in collecting some useful AI tools to improve productivity, they are my brainstorming partner and positive assistants with can-do attitude!**
