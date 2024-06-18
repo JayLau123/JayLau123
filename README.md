@@ -1,10 +1,6 @@
 ### Hi there  :v:
 
-🦫 I'm a Research Associate in Prof. Sam Peng's research group with research interests span physics, materials, and computational science. Currently, we delve deep into the fascinating realm of metallic chemical elements lanthanide: $[\mathrm{Xe}] 4 \mathrm{f}^N$, where $N$ runs from $1\left(\mathrm{Ce}^{3+}\right)$ to $13\left(\mathrm{Yb}^{3+}\right)$ along the series of $\mathrm{Ln^{3+}}$, and the lanthanide-doped nanocrystal ($\beta-\mathrm{NaYF_4}:\mathrm{Yb}^{3+}/\mathrm{Tm}^{3+}/\mathrm{Er}^{3+}$, known as upconversion nanoparticles UCNPs). 
-
-:atom: Depart from lanthanides' abundant electronic structure in solid, we try to explore microscopic interactions(electron, photon, phonon, etc) and energy transfer mechanisms (ED, MD, MPR, up-conversion, cross-relaxation, etc) with Judd-Ofelt theory and DFT. Grounded in an extensive theoretical framework and calculated transition rates, we implement Monte Carlo model to simulate the probabilistic, collective energy transfer behaviour among hundreds to millions of ions within single nanoparticles with diameters ranging from 4 $nm$ to 50 $nm$. 
-
-🚀 The overarching goal of these endeavors is to hack the energy transfer network to design custom-based UCNPs, perfect for their ultimate application: serving as long-term, multi-color optical probes in single-molecule tracking and imaging. Let’s push the boundaries of UCNPs research, illuminating paths for future innovations in spectroscopy and bio-imaging, and drive innovation together!
+🦫 I'm a Research Associate in Prof. Sam Peng's research group with research interests span physics, materials, and machine learning. 
 
 
 ### Explore the overlaps of physics and ML
@@ -35,20 +31,18 @@ To get started with using machine learning to investigate physics, follow these 
 6. Analyze and interpret the results, comparing your model's predictions with experimental or simulation data and assessing the model's performance.
 
 
+---
 
 
 
+👨‍💻 Currently, we delve deep into the fascinating realm of metallic chemical elements lanthanide: $[\mathrm{Xe}] 4 \mathrm{f}^N$, where $N$ runs from $1\left(\mathrm{Ce}^{3+}\right)$ to $13\left(\mathrm{Yb}^{3+}\right)$ along the series of $\mathrm{Ln^{3+}}$, and the lanthanide-doped nanocrystal ($\beta-\mathrm{NaYF_4}:\mathrm{Yb}^{3+}/\mathrm{Tm}^{3+}/\mathrm{Er}^{3+}$, known as upconversion nanoparticles UCNPs). 
+
+:atom: Depart from lanthanides' abundant electronic structure in solid, we try to explore microscopic interactions(electron, photon, phonon, etc) and energy transfer mechanisms (ED, MD, MPR, up-conversion, cross-relaxation, etc) with Judd-Ofelt theory and DFT. Grounded in an extensive theoretical framework and calculated transition rates, we implement Monte Carlo model and machine learning algorithm to simulate the probabilistic, collective energy transfer behaviour among hundreds to millions of ions within single nanoparticles with diameters ranging from 4 $nm$ to 50 $nm$. 
+
+🚀 The overarching goal of these endeavors is to hack the energy transfer network to design custom-based nanomaterials: UCNP, perfect for their ultimate application: serving as long-term, multi-color optical probes in single-molecule tracking and imaging. Let’s push the boundaries of UCNPs research, illuminating paths for future innovations in spectroscopy and bio-imaging, and drive innovation together!
 
 
-
-
-
-
-
-
-
-
-**👨‍💻 I seek to hack the energy transfer networks, build a useful computational model to provide insights and predictive support for the development of UCNPs. Here are some of my current most interested topics:**
+**I seek to hack the energy transfer networks, build a useful computational model to provide insights and predictive support for the development of UCNPs. Here are some of my current most interested topics:**
 
 :heavy_check_mark: How many term symbols $\mathrm{{ }^{2 S+1} L_J}$ should be involved for $\mathrm{Yb}^{3+}, \mathrm{Tm}^{3+}, \mathrm{Er}^{3+}$ in $\beta-\mathrm{NaYF_4}$, and quantitatively describe the energy level's value, shifting, and broadening under crystal-field and external electromagnetic field?
 
