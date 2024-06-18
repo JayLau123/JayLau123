@@ -1,7 +1,42 @@
-### Hi there  :v:
+## Hi there  :v:
 
 🦫 I'm a Research Associate in Prof. Sam Peng's research group with research interests span physics, materials, and machine learning. 
 
+---
+
+### Scientific research paradigms: AI4Physics
+
+#### First paradigm
+
+:mag_right: **Experimental science**. Observe, record, and describe natural phenomena, summarize and verify laws.
+
+- Galileo, Newton's laws, Mendel's Pea Experiment: The Hypothetical Deduction Method
+
+#### Second paradigm (Quantum mechanics)
+
+:bulb: **Theoretical science**. Based on mathematical analysis and theoretical derivation.
+
+-  Maxwell's equations, general relativity, quantum mechanics. Recover the mathematical formula and abstract physics theory from limited experimental data(e.g. spectrum) and thought experiment.
+
+#### Third paradigm (Semiconductor, transistor, integrated circuit, Computer)
+
+:computer: **Computational science**. Based on the natural world, we create the mathematical world, and now we build the numerical computation world.
+
+Simulated nuclear tests, computational materials, etc. Data sources including experimental measurement, empirical methods, numerical solution from extensively verified physical equations. 
+
+#### Fourth paradigm (Data, AI, HPC, GPU, ML, etc)
+
+:collision: **AI4science**
+
+Combination of multiple academic disciplines results in the interdisciplinary and comprehensive methodology: computer-aided, data-driven, statistics-based, physics-informed method.
+
+Use ML model to make predictions, and verify these conclusions by scientific approaches and supportive physics theorems.
+
+See more about the fourth paradigm: it's attractive and challengend to use symbolic regression to discover new physical laws
+
+https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf
+
+---
 
 ### Explore the overlaps of physics and ML
 
