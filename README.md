@@ -32,6 +32,8 @@ Combination of multiple academic disciplines results in the interdisciplinary an
 
 Use ML model to make predictions, and verify these conclusions by scientific approaches and supportive physics theorems.
 
+**"Scientific discovery in the age of artificial intelligence"**: https://www.nature.com/articles/s41586-023-06221-2
+
 See more about the fourth paradigm: it's attractive and challengend to use symbolic regression to discover new physical laws
 
 https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf
