@@ -70,6 +70,7 @@ To get started with using machine learning to investigate physics, follow these 
 
 ---
 
+## My Current Project
 
 
 👨‍💻 Currently, we delve deep into the fascinating realm of metallic chemical elements lanthanide: $[\mathrm{Xe}] 4 \mathrm{f}^N$, where $N$ runs from $1\left(\mathrm{Ce}^{3+}\right)$ to $13\left(\mathrm{Yb}^{3+}\right)$ along the series of $\mathrm{Ln^{3+}}$, and the lanthanide-doped nanocrystal ($\beta-\mathrm{NaYF_4}:\mathrm{Yb}^{3+}/\mathrm{Tm}^{3+}/\mathrm{Er}^{3+}$, known as upconversion nanoparticles UCNPs). 
