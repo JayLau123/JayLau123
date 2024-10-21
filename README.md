@@ -6,7 +6,7 @@
 
 ### Scientific research paradigms: AI4Physics
 
-#### First paradigm
+#### First paradigm （Empirical Science）
 
 :mag_right: Observation and Empiricism. The foundation of scientific discovery lies in observing, recording, and describing natural phenomena. From these observations, scientists formulate hypotheses, test them, and develop laws that explain the behavior of the natural world. This paradigm is characterized by the empirical method of scientific inquiry, where hypotheses are validated through experimentation.
 
