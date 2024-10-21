@@ -4,7 +4,7 @@
 
 ---
 
-### Scientific research paradigms: AI4Physics
+### Scientific research paradigms
 
 #### First paradigm （Empirical Science）
 
