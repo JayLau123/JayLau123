@@ -8,35 +8,34 @@
 
 #### First paradigm
 
-:mag_right: **Experimental science**. Observe, record, and describe natural phenomena, summarize and verify laws.
+:mag_right: Observation and Empiricism. The foundation of scientific discovery lies in observing, recording, and describing natural phenomena. From these observations, scientists formulate hypotheses, test them, and develop laws that explain the behavior of the natural world. This paradigm is characterized by the empirical method of scientific inquiry, where hypotheses are validated through experimentation.
 
-- Galileo, Newton's laws, Mendel's Pea Experiment: The Hypothetical Deduction Method
+Key Examples: Galileo's motion experiments, Newton's laws of motion, and Mendel's pea plant experiments. These foundational studies exemplify the hypothetical-deductive method, where observations lead to testable hypotheses, and the results further solidify scientific laws.
 
-#### Second paradigm (Quantum mechanics)
 
-:bulb: **Theoretical science**. Based on mathematical analysis and theoretical derivation.
+#### Second paradigm (Theoretical Science)
 
--  Maxwell's equations, general relativity, quantum mechanics. Recover the mathematical formula and abstract physics theory from limited experimental data(e.g. spectrum) and thought experiment.
+:bulb: Mathematical and Analytical Models. Theoretical science advances knowledge by building on mathematical analysis and abstract reasoning, often extending beyond direct empirical evidence. The goal is to derive theories that can explain observed phenomena and predict new ones. This paradigm emphasizes using limited experimental data, or even purely thought experiments, to recover the underlying mathematical structure of physical laws.
 
-#### Third paradigm (Semiconductor, transistor, integrated circuit, Computer)
+Key Examples: Maxwell's equations, Einstein's theory of general relativity, and the development of quantum mechanics. These theories stem from rigorous mathematical frameworks that can explain and predict the physical behavior of systems from atomic to cosmic scales.
 
-:computer: **Computational science**. Based on the natural world, we create the mathematical world, and now we build the numerical computation world.
 
-Simulated nuclear tests, computational materials, etc. Data sources including experimental measurement, empirical methods, numerical solution from extensively verified physical equations. 
+#### Third paradigm (Computational Science)
 
-#### Fourth paradigm (Data, AI, HPC, GPU, ML, etc)
+:computer: Simulated Reality and Numerical Modeling. The computational paradigm represents a shift towards creating virtual models of the real world. By translating physical systems into mathematical equations and solving them using computational techniques, scientists can simulate phenomena that are difficult or impossible to observe directly. These simulations rely on verified physical equations, empirical data, and high-performance computing.
 
-:collision: **AI4science**
+Key Examples: Simulated nuclear tests, computational materials science, and climate modeling. These examples demonstrate how computational tools allow for the exploration and understanding of complex systems, where direct experimentation may be limited by scale, safety, or practicality.
 
-Combination of multiple academic disciplines results in the interdisciplinary and comprehensive methodology: computer-aided, data-driven, statistics-based, physics-informed method.
 
-Use ML model to make predictions, and verify these conclusions by scientific approaches and supportive physics theorems.
+#### Fourth paradigm (AI for Science)
 
-**"Scientific discovery in the age of artificial intelligence"**: https://www.nature.com/articles/s41586-023-06221-2
+:collision: Computer-aided, Data-driven, Statistics-based, Physics-informed Discovery and Interdisciplinary Integration. The latest paradigm in scientific research is the integration of artificial intelligence (AI), machine learning (ML), and high-performance computing (HPC) with traditional scientific methods. This interdisciplinary approach leverages data-driven models to augment and accelerate discovery. AI models can identify patterns in massive datasets, predict outcomes, and propose hypotheses that can then be validated through scientific methods and grounded in physics-informed theories.
 
-See more about the fourth paradigm: it's attractive and challengend to use symbolic regression to discover new physical laws
+Key Examples: Alpha-Fold, drug discovery, symbolic regression for uncovering new physical laws, and the use of neural networks in discovering complex material properties. This paradigm enables researchers to harness vast computational power, advancing science through AI-assisted predictions and insights.
 
-https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf
+As highlighted in **"Scientific Discovery in the Age of Artificial Intelligence"** ([Nature, 2023](https://www.nature.com/articles/s41586-023-06221-2)), AI plays an increasingly critical role in modern science. The fusion of AI with traditional scientific inquiry forms a comprehensive methodology that is both powerful and transformative, pushing the boundaries of what is discoverable.
+
+For a deeper exploration of this paradigm, the landmark publication The Fourth Paradigm by Microsoft Research (Microsoft Research, 2009) underscores the challenges and opportunities of applying AI and machine learning to scientific research, particularly in using symbolic regression to discover new physical laws: https://www.microsoft.com/en-us/research/wp-content/uploads/2009/10/Fourth_Paradigm.pdf
 
 ---
 
