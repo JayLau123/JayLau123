@@ -4,7 +4,7 @@
 
 ---
 
-### Scientific research paradigms
+### Scientific Research Paradigms
 
 #### First paradigm （Empirical Science）
 
