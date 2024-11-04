@@ -39,7 +39,7 @@ For a deeper exploration of this paradigm, the landmark publication The Fourth P
 
 ---
 
-### Explore the overlaps of physics and ML
+### Explore the overlaps of Physics and Machine learning
 
 My methodological interest in this field lies in advancing multi-methods materials designs and the application of experimental and statistical analysis to DFT and machine learning. It is all about harnessing the power and beauty of physical laws and data. 
 
