@@ -22,16 +22,16 @@ Key Examples: Maxwell's equations, Einstein's theory of general relativity, and 
 
 #### Third paradigm (Computational Science)
 
-:computer: Simulated Reality and Numerical Modeling. The computational paradigm represents a shift towards creating virtual models of the real world. By translating physical systems into mathematical equations and solving them using computational techniques, scientists can simulate phenomena that are difficult or impossible to observe directly. These simulations rely on verified physical equations, empirical data, and high-performance computing.
+:computer: Simulated Reality and Numerical Modeling. The computational paradigm represents a shift towards creating virtual models of the real world. By translating physical systems into mathematical equations and solving them using computational techniques, scientists can simulate phenomena that are difficult or impossible to observe directly. These simulations rely on verified physical equations, empirical data, and computational source.
 
-Key Examples: Simulated nuclear tests, computational materials science, and climate modeling. These examples demonstrate how computational tools allow for the exploration and understanding of complex systems, where direct experimentation may be limited by scale, safety, or practicality.
+Key Examples: Density-functional theory(DFT), molecular-dynamics, and Monte-Carlo method. These examples demonstrate how computational tools allow for the exploration and understanding of complex systems, where direct experimentation may be limited by scale, safety, or practicality.
 
 
 #### Fourth paradigm (AI for Science)
 
 :collision: Computer-aided, Data-driven, Statistics-based, Physics-informed Discovery and Interdisciplinary Integration. The latest paradigm in scientific research is the integration of artificial intelligence (AI), machine learning (ML), and high-performance computing (HPC) with traditional scientific methods. This interdisciplinary approach leverages data-driven models to augment and accelerate discovery. AI models can identify patterns in massive datasets, predict outcomes, and propose hypotheses that can then be validated through scientific methods and grounded in physics-informed theories.
 
-Key Examples: Alpha-Fold, drug discovery, symbolic regression for uncovering new physical laws, and the use of neural networks in discovering complex material properties. This paradigm enables researchers to harness vast computational power, advancing science through AI-assisted predictions and insights.
+Key Examples: Machine learning, Alpha-Fold, drug discovery, symbolic regression for uncovering new physical laws, and the use of neural networks in discovering complex material properties. This paradigm enables researchers to harness vast computational power, advancing science through AI-assisted predictions and insights.
 
 As highlighted in **"Scientific Discovery in the Age of Artificial Intelligence"** ([Nature, 2023](https://www.nature.com/articles/s41586-023-06221-2)), AI plays an increasingly critical role in modern science. The fusion of AI with traditional scientific inquiry forms a comprehensive methodology that is both powerful and transformative, pushing the boundaries of what is discoverable.
 
