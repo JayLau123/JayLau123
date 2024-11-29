@@ -1,6 +1,6 @@
 ## Hi there  :v:
 
-🦫 I'm a Research Associate in Prof. Sam Peng's research group with research interests span physics, materials, and machine learning. 
+🦫 I'm a Research Associate in Prof. Sam Peng's research group with research interests span physics, materials, and computational science including machine learning. 
 
 ---
 
