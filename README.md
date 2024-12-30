@@ -1,6 +1,7 @@
 ## Hi there  :v:
 
-🦫 I'm a Research Associate in Prof. Sam Peng's research group with research interests span physics, materials, and computational science including machine learning. 
+🦫 I'm a Research Associate in Prof. Sam Peng's research group, working at the interface between atomistic simulations and machine learning. We follow the paradigm of data-driven, physics-informed machine learning approach to understand and design materials inversely, given the specific application with desired properties and performance.  
+
 
 ---
 
