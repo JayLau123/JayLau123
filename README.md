@@ -1,7 +1,8 @@
 ## Hi there  :v:
 
-🦫 I'm a Research Associate in Prof. Sam Peng's research group, working at the interface between atomistic simulations and machine learning. We follow the paradigm of data-driven, physics-informed machine learning approach to understand and design materials inversely, given the specific application with desired properties and performance.  
+🐂 I’m an incoming PhD student in Prof. Jiayu Peng’s group at the University at Buffalo, where we develop physics-informed, data-driven machine learning methods to reveal the underlying principles of materials thermodynamics and surface kinetics. Our goal is to enable materials-centric AI solutions for chemical transformation and energy technologies through atomistic simulations and characterization data.
 
+🦫 Previously, I worked as a Research Associate in Prof. Sam Peng’s group at MIT’s Department of Chemistry, where I led an independent project on lanthanide-doped upconversion nanocrystals (UCNPs), applying Judd–Ofelt theory and ab initio calculations to study energy states and radiative/non-radiative transitions of doped ions in a nano-crystal. I also developed a Monte Carlo–ODE hybrid computational model to simulate energy transfer networks within many-ion systems(~3k), guiding the rational design of brighter, smaller, and more efficient UCNPs. This work supports next-gen bioimaging applications, such as single-molecule tracking under NIR laser excitation.
 
 ---
 
