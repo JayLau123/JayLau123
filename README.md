@@ -8,7 +8,9 @@
 
 I actively contributed to the lab's research capacity by mentoring junior members and integrating computational methods into collaborative projects.
 
-- Master's Thesis Supervision: Yuxuan Zheng, [Investigation of the energy transfer network in upconverting nanoparticles](https://dspace.mit.edu/handle/1721.1/159106)
+- Master's Thesis Supervision: Yuxuan Zheng, MIT, [Investigation of the energy transfer network in upconverting nanoparticles](https://dspace.mit.edu/handle/1721.1/159106)
+
+I am open to new collaboration opportunities in computational materials(catalyst design), graph neural network. Feel free to reach out!
 
 ---
 
