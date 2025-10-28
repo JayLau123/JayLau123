@@ -4,6 +4,12 @@
 
 🦫 Also, I'm working as a Research Associate in ([Prof. Sam Peng’s group](https://www.sampenglab.org/research)) at MIT’s Department of Chemistry, where I led an independent project on lanthanide-doped upconversion nanocrystals (UCNPs), applying Judd–Ofelt theory and ab initio calculations to study radiative/non-radiative transitions of doped ions in a nano-crystal. So far I have developed a Monte Carlo–ODE hybrid computational framework to simulate energy transfer dynamics in multi-ion systems (~3,000 ions), achieving strong agreement with experimental data. This work supports for the rational design of brighter, smaller, and more efficient UCNPs as next-gen bioimaging applications, such as single-molecule tracking under NIR laser excitation in living cell.
 
+🦫 Mentorship & Collaboration
+
+I actively contributed to the lab's research capacity by mentoring junior members and integrating computational methods into collaborative projects.
+
+- Master's Thesis Supervision: Yuxuan Zheng, [Investigation of the energy transfer network in upconverting nanoparticles](https://dspace.mit.edu/handle/1721.1/159106)
+
 ---
 
 ### Scientific Research Paradigms
