@@ -6,7 +6,7 @@
 
 🦫 Mentorship & Collaboration
 
-I actively contributed to the lab's research capacity by mentoring junior members and integrating computational methods into collaborative projects.
+I actively contributed to the lab's research capacity by mentoring junior members and integrating theoretical and computational methods into collaborative projects.
 
 - Master's Thesis Supervision: Yuxuan Zheng, MIT, [Investigation of the energy transfer network in upconverting nanoparticles](https://dspace.mit.edu/handle/1721.1/159106)
 
